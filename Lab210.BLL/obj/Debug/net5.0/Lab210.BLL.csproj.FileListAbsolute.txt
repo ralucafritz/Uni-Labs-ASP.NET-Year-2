@@ -1,0 +1,15 @@
+E:\repos\Project-ASP.NET\Lab210.BLL\bin\Debug\net5.0\Lab210.BLL.deps.json
+E:\repos\Project-ASP.NET\Lab210.BLL\bin\Debug\net5.0\Lab210.BLL.dll
+E:\repos\Project-ASP.NET\Lab210.BLL\bin\Debug\net5.0\ref\Lab210.BLL.dll
+E:\repos\Project-ASP.NET\Lab210.BLL\bin\Debug\net5.0\Lab210.BLL.pdb
+E:\repos\Project-ASP.NET\Lab210.BLL\bin\Debug\net5.0\Lab210.DAL.dll
+E:\repos\Project-ASP.NET\Lab210.BLL\bin\Debug\net5.0\Lab210.DAL.pdb
+E:\repos\Project-ASP.NET\Lab210.BLL\obj\Debug\net5.0\Lab210.BLL.csproj.AssemblyReference.cache
+E:\repos\Project-ASP.NET\Lab210.BLL\obj\Debug\net5.0\Lab210.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Project-ASP.NET\Lab210.BLL\obj\Debug\net5.0\Lab210.BLL.AssemblyInfoInputs.cache
+E:\repos\Project-ASP.NET\Lab210.BLL\obj\Debug\net5.0\Lab210.BLL.AssemblyInfo.cs
+E:\repos\Project-ASP.NET\Lab210.BLL\obj\Debug\net5.0\Lab210.BLL.csproj.CoreCompileInputs.cache
+E:\repos\Project-ASP.NET\Lab210.BLL\obj\Debug\net5.0\Lab210.BLL.csproj.CopyComplete
+E:\repos\Project-ASP.NET\Lab210.BLL\obj\Debug\net5.0\Lab210.BLL.dll
+E:\repos\Project-ASP.NET\Lab210.BLL\obj\Debug\net5.0\ref\Lab210.BLL.dll
+E:\repos\Project-ASP.NET\Lab210.BLL\obj\Debug\net5.0\Lab210.BLL.pdb

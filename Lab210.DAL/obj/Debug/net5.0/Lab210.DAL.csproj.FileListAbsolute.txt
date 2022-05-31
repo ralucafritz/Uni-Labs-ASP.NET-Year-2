@@ -1,0 +1,15 @@
+E:\repos\Project-ASP.NET\Lab210.DAL\bin\Debug\net5.0\Lab210.DAL.deps.json
+E:\repos\Project-ASP.NET\Lab210.DAL\bin\Debug\net5.0\Lab210.DAL.runtimeconfig.json
+E:\repos\Project-ASP.NET\Lab210.DAL\bin\Debug\net5.0\Lab210.DAL.runtimeconfig.dev.json
+E:\repos\Project-ASP.NET\Lab210.DAL\bin\Debug\net5.0\Lab210.DAL.dll
+E:\repos\Project-ASP.NET\Lab210.DAL\bin\Debug\net5.0\ref\Lab210.DAL.dll
+E:\repos\Project-ASP.NET\Lab210.DAL\bin\Debug\net5.0\Lab210.DAL.pdb
+E:\repos\Project-ASP.NET\Lab210.DAL\obj\Debug\net5.0\Lab210.DAL.csproj.AssemblyReference.cache
+E:\repos\Project-ASP.NET\Lab210.DAL\obj\Debug\net5.0\Lab210.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Project-ASP.NET\Lab210.DAL\obj\Debug\net5.0\Lab210.DAL.AssemblyInfoInputs.cache
+E:\repos\Project-ASP.NET\Lab210.DAL\obj\Debug\net5.0\Lab210.DAL.AssemblyInfo.cs
+E:\repos\Project-ASP.NET\Lab210.DAL\obj\Debug\net5.0\Lab210.DAL.csproj.CoreCompileInputs.cache
+E:\repos\Project-ASP.NET\Lab210.DAL\obj\Debug\net5.0\Lab210.DAL.dll
+E:\repos\Project-ASP.NET\Lab210.DAL\obj\Debug\net5.0\ref\Lab210.DAL.dll
+E:\repos\Project-ASP.NET\Lab210.DAL\obj\Debug\net5.0\Lab210.DAL.pdb
+E:\repos\Project-ASP.NET\Lab210.DAL\obj\Debug\net5.0\Lab210.DAL.genruntimeconfig.cache
